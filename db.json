@@ -1,0 +1,61 @@
+{
+    "clothes":[
+        {
+            "id":1,
+            "name":"Ayakkabı",
+            "price":300,
+            "image":"https://picsum.photos/200",
+            "desc":"Kadınlar için kırmızı topuklu ayakkabı",
+            "installment":4
+        },{
+            "id": 2,
+            "name": "Cep Telefonu",
+            "price": 2000,
+            "image": "https://picsum.photos/201",
+            "desc": "Yüksek performanslı akıllı telefon",
+            "installment": 12
+        },{
+            "id": 3,
+            "name": "Bilgisayar",
+            "price": 5000,
+            "image": "https://picsum.photos/202",
+            "desc": "Güçlü oyun bilgisayarı",
+            "installment": 6
+        },{
+            "id": 4,
+            "name": "Çanta",
+            "price": 150,
+            "image": "https://picsum.photos/203",
+            "desc": "Siyah deri omuz çantası",
+            "installment": 3
+        },{
+            "id": 5,
+            "name": "Kamera",
+            "price": 1000,
+            "image": "https://picsum.photos/204",
+            "desc": "Profesyonel DSLR fotoğraf makinesi",
+            "installment": 9
+        },{
+            "id": 6,
+            "name": "Televizyon",
+            "price": 3000,
+            "image": "https://picsum.photos/205",
+            "desc": "Ultra HD Smart TV",
+            "installment": 12
+        },{
+            "id": 7,
+            "name": "Kulaklık",
+            "price": 100,
+            "image": "https://picsum.photos/206",
+            "desc": "Kablosuz Bluetooth kulaklık",
+            "installment": 3
+        },{
+            "id": 8,
+            "name": "Saat",
+            "price": 250,
+            "image": "https://picsum.photos/207",
+            "desc": "Erkekler için deri kayışlı kol saati",
+            "installment": 6
+        }
+    ]
+}
